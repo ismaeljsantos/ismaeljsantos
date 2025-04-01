@@ -1,4 +1,5 @@
-<h1>👋 &nbsp;Olá, eu sou o Ismael, um desenvolvedor junior apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Ismael, um desenvolvedor junior apaixonado por tecnologia!</h1>
+<blockquote>"A tecnologia sozinha não basta. Também temos que colocar o coração." -Tim Cook</blockquote>
 <p align="center">
 <a href="https://www.instagram.com/ismael_js8/"><img src="https://img.shields.io/badge/-@ismael__js8_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://ismaeljsantos.dev.br"><img src="https://img.shields.io/badge/-ismaeljs.dev.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -10,11 +11,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava SAMP. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Comecei a trabalhar com essa idade, e foi ai que descobri que minha paixão é transformar vidas. Comecei como Servente de obras ajudando meu Pai, mas, quando chegava em cas
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando queria criar um servidor do jogo que eu amava na época, que se chamava SA-MP. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 💚 &nbsp; Comecei a trabalhar com essa idade, e foi ai que descobri que minha paixão é transformar vidas. Comecei como Servente de obras ajudando meu Pai, mas, quando chegava em casa eu procurava escrever codigo no Pawn para editar meu servidor sa-mp.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes, também as stack's Java, C# e PHP.
+- 🏎 &nbsp; Sou apaixonado por politica, especialmente por politicas publicas, sou presidente da associação visão comunitária, delegado de saude nas conferencias municipais e estaduais, integro o conselho local de saude da UBS Humberto Mourão. Sou afixionado por justiça social e por isso hoje busco na programação o desenvolvimento de softwares voltados para trazer dignidade e facilidade para as instituições que fomentam a justiça social e tentam minimiza o impacto da desigualdade social!
+- 💵 &nbsp; Também gosto muito de economia, direito, assistencia social, filosofia, direito civil, Sociologia, Neurociencia aplicada a sociedade.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
