@@ -11,9 +11,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando queria criar um servidor do jogo que eu amava na época, que se chamava SA-MP. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando queria criar um servidor do jogo que eu amava na época, que se chamava SA-MP. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Então em 2023 eu decidi que eu queria fazer isso — eu queria ser um programador.
 - 💚 &nbsp; Comecei a trabalhar com essa idade, e foi ai que descobri que minha paixão é transformar vidas. Comecei como Servente de obras ajudando meu Pai, mas, quando chegava em casa eu procurava escrever codigo no Pawn para editar meu servidor sa-mp.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes, também as stack's Java, C# e PHP.
+- 🚀 &nbsp; Atualmente, tenho como foco principal as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes, também as stack's Java, C# e PHP.
 - 🏎 &nbsp; Sou apaixonado por politica, especialmente por politicas publicas, sou presidente da associação visão comunitária, delegado de saude nas conferencias municipais e estaduais, integro o conselho local de saude da UBS Humberto Mourão. Sou afixionado por justiça social e por isso hoje busco na programação o desenvolvimento de softwares voltados para trazer dignidade e facilidade para as instituições que fomentam a justiça social e tentam minimiza o impacto da desigualdade social!
 - 💵 &nbsp; Também gosto muito de economia, direito, assistencia social, filosofia, direito civil, Sociologia, Neurociencia aplicada a sociedade.
 
@@ -35,8 +35,12 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 <!--![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)-->
 
